@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Screenshot 2024-07-17 113604.png</filename>
+	<path>C:\Users\jackson.feldman\Desktop\cbdata\images\Screenshot 2024-07-17 113604.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>311</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>checked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>38</ymin>
+			<xmax>167</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>checked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>85</ymin>
+			<xmax>168</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>checked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>157</ymin>
+			<xmax>164</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
